@@ -1,0 +1,3 @@
+ # Report output contains names and emails, never commit it
+   *.csv
+   !sample/sample-report.csv
